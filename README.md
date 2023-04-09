@@ -31,11 +31,7 @@ The application steps are:
 - Restore the portfolio value attrition over time in an interactive figure:
      - Two traces because of two portfolio value functions (Jain and Singh in 2002 and Gupta and Lehman in 2004).
 
-### Example:
-
-```shell
-shiny run --reload app.py
-```
+### Result:
 
 ![Shiny for python application.](https://user-images.githubusercontent.com/82931295/230781253-2577d6d5-fef8-4205-a9b8-9590b02ccde3.png)
 
