@@ -37,6 +37,6 @@ The application steps are:
 shiny run --reload app.py
 ```
 
-![Shiny for python application.](Portfolio Value App (1).png)
+![Shiny for python application.](../Portfolio Value App (1).png)
 
 </div>
