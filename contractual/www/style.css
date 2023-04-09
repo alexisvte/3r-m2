@@ -170,8 +170,6 @@
   font-size: 10px;
   overflow-y: scroll;
   overflow-x: scroll;
-  scrollbar-color: #344A58;
-  scrollbar-width: thin;
 }
 
 .df_table {
