@@ -29,7 +29,9 @@ The application steps are:
 - To run a model based on Weibull or Log-Normal or Log-Logistic law:
      - This model predict the customer survival function into the portfolio.
 - Restore the portfolio value attrition over time in an interactive figure:
-     - Two traces because of two portfolio value functions (Jain and Singh in 2002 and Gupta and Lehman in 2004).
+     - Two traces because of two portfolio value functions based on:
+          - Jain and Singh of 2002,
+          - Gupta and Lehman of 2004).
 
 ### Result:
 
