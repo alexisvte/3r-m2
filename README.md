@@ -1,7 +1,7 @@
 # 3r-m2
 
 ```diff
-+ WORK IN PROGRESS...
++ WORK IS DONE.
 ```
 
 _Shiny Applcation_ in python.
