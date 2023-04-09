@@ -6,7 +6,7 @@ _Shiny Applcation_ in python.
 
 <div style="text-align: justify">
 
-Develop an application to simulate a portfolio value attrition over time depending on several customers caracteristics:
+Develop an [application](https://alexisvte.shinyapps.io/contractual-portfolio-value-app/?_ga=2.149677491.462710402.1681053594-1612834766.1681053594) to simulate a portfolio value attrition over time depending on several customers caracteristics:
 
 - personal (customer),
 - economical (contract),
@@ -37,6 +37,6 @@ The application steps are:
 shiny run --reload app.py
 ```
 
-![Shiny for python application.](../Portfolio Value App (1).png)
+![Shiny for python application.](https://user-images.githubusercontent.com/82931295/230781253-2577d6d5-fef8-4205-a9b8-9590b02ccde3.png)
 
 </div>
