@@ -35,7 +35,7 @@ The application steps are:
 - Restore the portfolio value attrition over time in an interactive figure:
      - Two traces because of two portfolio value functions based on:
           - Jain and Singh of 2002,
-          - Gupta and Lehman of 2004).
+          - Gupta and Lehman of 2004.
 
 ### Result:
 
