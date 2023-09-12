@@ -1,4 +1,12 @@
-""".. (IN PROGRESS)
+""" app.py:
+
+UI
+Script to create the interface and import the data.
+
+SERVER.
+Script to import libraries and to call and run the interface and the server together.
+
+WARNING: Can be commented and optimized!
 """
 
 import pandas as pd
