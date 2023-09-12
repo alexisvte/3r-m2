@@ -20,8 +20,10 @@ from tools.help import info, info_model, about_text
 from tools.graphic_tools import create_figure, create_table, data_portfolio
 from tools.portfolio_tools import model
 
+# data:
 dfbis = pd.read_csv(Path(__file__).parent / "data" / "dfbis.csv")
 
+# dependencies:
 ui_dependencies = ui.tags.head(
     ui.tags.link(rel="stylesheet", type="text/css", href="layout.css"),
     ui.tags.link(rel="stylesheet", type="text/css", href="style.css"),
