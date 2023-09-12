@@ -2,6 +2,12 @@
 
 ```diff
 + WORK IS DONE.
+
+Every subtabs and every tabs work well.
+
+! COMMENT IN PROGRESS...
+
+Code needs to be commented.
 ```
 
 _Shiny Applcation_ in python.
@@ -18,7 +24,7 @@ Develop an [application](https://alexisvte.shinyapps.io/contractual-portfolio-va
 
 ## Documentation
 
-We have a `shiny` application that we call with:
+We have a `shiny` application that we call by typing:
 
 ```shell
 shiny run --reload app.py
