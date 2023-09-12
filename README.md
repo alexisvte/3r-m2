@@ -20,6 +20,8 @@
 └── requirements.txt
 ```
 
+_Poetry project_.
+
 ```diff
 + WORK IS DONE.
 
