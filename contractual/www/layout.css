@@ -160,9 +160,9 @@ html, body, .container.fluid {
 /* other : */
 
 .card-style {
+  padding: 20px;
   border: 1px solid #eaeaea;
   border-radius: 5px;
-  padding: 20px;
   box-shadow: rgb(0 0 0 / 10%) 4px 8px 12px;
   overflow: hidden;
 }
