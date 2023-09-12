@@ -118,6 +118,8 @@ html, body, .container.fluid {
   }
 }
 
+/* navigation : */
+
 .navigation-logo {
   grid-area: logo;
 
