@@ -12,10 +12,10 @@
 │   │   └── df.csv
 │   │   └── dfbis.csv
 │   │   └── saved_model.sav
-│   ├── tools
-│   │   └── graphic_tools.py
-│   │   └── help.py
-│   │   └── portfolio_tools.py
+│   └── tools
+│       └── graphic_tools.py
+│       └── help.py
+│       └── portfolio_tools.py
 └── no-contractual
 └── requirements.txt
 ```
