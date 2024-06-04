@@ -24,12 +24,7 @@ _Poetry project_.
 
 ```diff
 + WORK IS DONE.
-
-Every subtabs and every tabs work well.
-
-! COMMENT IN PROGRESS...
-
-Code needs to be commented.
+! COMMENTS ARE IN PROGRESS...
 ```
 
 
